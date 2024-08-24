@@ -1,1 +1,1 @@
-This is a duplicate of [ParticleNeRF](https://github.com/jc211/ParticleNeRF/tree/particle-nerf), which uses a particle-based encoding for better modeling of moving deformable objects. Particle-tracking feature is added to this forked version for visualiozation.
+This is a duplicate of [ParticleNeRF](https://github.com/jc211/ParticleNeRF/tree/particle-nerf), which uses a particle-based encoding for better modeling of moving deformable objects. Particle-tracking feature is added to this forked version for visualization.
